@@ -1,6 +1,6 @@
 
 # Este es el repo de AtacaBr0 👻
-![Me ha fallado][https://github.com/AlvaroRodriguezDelgado/AlvaroRodriguezDelgado/blob/main/BannerPersonal.png]
+![Me ha fallado](https://github.com/AlvaroRodriguezDelgado/AlvaroRodriguezDelgado/blob/main/BannerPersonal.png)
 ## Si estás aquí, verás los peores códigos de tu vida :( 
 
 ### Estoy intentando que quede algo chulo como por ejemplo:
