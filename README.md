@@ -9,7 +9,7 @@
 
 ## Contacto
 
-Mami buscame en casa, pa que veas lo que pasa 
+ardelgado@gradiant.org
 
 ## Fun fact
 
