@@ -13,8 +13,9 @@ ardelgado@gradiant.org
 
 ## Fun facts
 
-Creo las situaciones más vergonzosas de la faz de la tierra.
-Tengo un perro que se llama pinfloi.
+Creo las situaciones más vergonzosas de la faz de la tierra 😶‍🌫️
+
+Tengo un perro que se llama pinfloi 🐶
 
 <!--
 **AlvaroRodriguezDelgado/AlvaroRodriguezDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
