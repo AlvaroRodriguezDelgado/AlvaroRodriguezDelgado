@@ -1,9 +1,9 @@
 
-# Este es el repo de AtacaBr0 🐲
+# Este es el repo de Álvaro 🐲
 ![Me ha fallado](https://github.com/AlvaroRodriguezDelgado/AlvaroRodriguezDelgado/blob/main/BannerPersonal.png)
-## Si estás aquí, verás los peores códigos de tu vida :( 
+## Si estás aquí, verás los peores códigos de tu vida...
 
-### Estoy intentando que quede algo chulo como por ejemplo:
+### Estoy intentando que quede algo chulo:
 
 🌱 Estoy aprendiendo a programar y a organizar mis proyectos
 
